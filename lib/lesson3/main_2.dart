@@ -1,6 +1,9 @@
 // Flutter imports:
-// Package imports:
+
+// 📦 Package imports:
 import 'package:carousel_slider/carousel_slider.dart';
+
+// 🐦 Flutter imports:
 import 'package:flutter/material.dart';
 
 main() {
